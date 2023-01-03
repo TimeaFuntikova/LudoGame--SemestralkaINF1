@@ -4,9 +4,9 @@ Tell the reader (someone who does not know anything about this project)
 all he/she needs to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: LUDO GAME
+PURPOSE OF PROJECT: SEMESTRAL PROJECT, FIRST SEMESTER
+VERSION or DATE: VERSION 1.0, 23. 6. 2021
+HOW TO START THIS PROJECT: ONLY GOD KNOWS
+AUTHORS: TIMEA FUNTIKOVA
+USER INSTRUCTIONS: WILL BE ADDED
