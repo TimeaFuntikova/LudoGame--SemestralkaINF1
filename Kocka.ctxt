@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Kocka
+comment0.text=\r\n\ Trieda\ Kocka\ n\u00E1hodne\ generuje\ \u010D\u00EDsla\ od\ 1\ po\ 6.\r\n\ \r\n\ @author\ Timea\ Funt\u00EDkov\u00E1\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=Kocka()
+comment1.text=\r\n\ Kon\u0161truktor\ triedy\ Kocka.\r\n
+comment2.params=
+comment2.target=void\ hodKockou()
+comment2.text=\r\n\ (Kocka)\ Pomocou\ funkcie\ volanej\ z\ kni\u017Enice\ vygeneruje\ n\u00E1hodn\u00E9\ \u010D\u00EDslo\ od\ 1\ po\ 6.\r\n
+comment3.params=
+comment3.target=void\ vynulujKocku()
+comment3.text=\r\n\ (Kocka)\ Vynuluje\ kocku.\r\n
+comment4.params=
+comment4.target=int\ generujHod()
+comment4.text=\r\n\ (Kocka)\ N\u00E1hodne\ vygenerje\ \u010D\u00EDslo\ od\ 1\ -\ 6.\r\n
+comment5.params=
+comment5.target=int\ getHodeneCislo()
+comment5.text=\r\n\ (Kocka)\ Getter\ na\ hoden\u00E9\ \u010D\u00EDslo.\ \r\n
+numComments=6
